@@ -2,8 +2,6 @@
 
 sampleHTML
 
-## hello
-
 ### ugra
 
 ## hi
